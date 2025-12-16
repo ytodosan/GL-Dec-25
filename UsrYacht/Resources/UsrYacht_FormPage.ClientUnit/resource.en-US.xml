@@ -6,7 +6,17 @@
 			<Item Name="LocalizableStrings.addRecord_1myffdl_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_357107n_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_43zqldb_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_it3g09z_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_lvm2qxs_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_yhapzhc_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Categories_label.Value" Value="Categories" />
+			<Item Name="LocalizableStrings.EmailInput_3yoj6us_caption.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.EmailInput_3yoj6us_label.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.Label_onrp3lz_caption.Value" Value="Yacht rentals" />
+			<Item Name="LocalizableStrings.LengthCannotBeLess.Value" Value="The minimum length for a yacht should be 30 ft" />
+			<Item Name="LocalizableStrings.MyButton_caption.Value" Value="My button" />
+			<Item Name="LocalizableStrings.PassangersCannotBeLess.Value" Value="A yacht should accommodate at least 10 passengers" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50" />
 		</Items>
 	</Group>
 </Resources>

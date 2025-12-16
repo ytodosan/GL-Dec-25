@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "6b2e0d51-8018-be77-388c-84972bb1a661",
+    "Name": "DisableSysAdminUnitTR",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1765558601000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
